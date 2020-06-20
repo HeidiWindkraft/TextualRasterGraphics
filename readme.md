@@ -21,8 +21,8 @@ File `smiley.svg` should look like this:
 
 
 Other examples are:
-  - ![examples/smiley.trg.md.svg](examples/smiley.trg.md.svg) from
-    [examples/smiley.trg.md.svg](examples/smiley.trg.md.svg).
+  - ![examples/foldericon.trg.md.svg](examples/foldericon.trg.md.svg) from
+    [examples/foldericon.trg.md](examples/foldericon.trg.md).
   - ![examples/indentex.trg.md.svg](examples/indentex.trg.md.svg) from
     [examples/indentex.trg.md](examples/indentex.trg.md).
 
