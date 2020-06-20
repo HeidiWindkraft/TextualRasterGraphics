@@ -329,7 +329,9 @@ class TextualRasterImage:
     linescale = int(self.property_strs.get('linescale', '1'));
     pixh *= linescale;
     lines = [
-      '<svg width="' + str(width*pixw) + '" height="' + str(height*pixh) + '">',
+      '<?xml version="1.0" encoding="UTF-8"?>',
+      ('<svg version="1.1" xmlns="http://www.w3.org/2000/svg" '
+        + 'width="' + str(width*pixw) + '" height="' + str(height*pixh) + '">'),
       '',
     ];
     for y in range(0, height):
