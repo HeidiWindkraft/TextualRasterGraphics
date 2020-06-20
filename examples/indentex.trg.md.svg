@@ -1,0 +1,23 @@
+<svg width="3" height="5">
+
+  <rect x="0" y="0" width="1" height="1" style="fill:rgba(0,0,0,255)" />
+  <rect x="1" y="0" width="1" height="1" style="fill:rgba(0,0,0,255)" />
+  <rect x="2" y="0" width="1" height="1" style="fill:rgba(0,0,0,255)" />
+
+  <rect x="0" y="1" width="1" height="1" style="fill:rgba(255,255,255,255)" />
+  <rect x="1" y="1" width="1" height="1" style="fill:rgba(255,255,255,255)" />
+  <rect x="2" y="1" width="1" height="1" style="fill:rgba(255,255,255,255)" />
+
+  <rect x="0" y="2" width="1" height="1" style="fill:rgba(0,0,0,255)" />
+  <rect x="1" y="2" width="1" height="1" style="fill:rgba(0,0,0,255)" />
+  <rect x="2" y="2" width="1" height="1" style="fill:rgba(0,0,0,255)" />
+
+  <rect x="0" y="3" width="1" height="1" style="fill:rgba(255,255,255,255)" />
+  <rect x="1" y="3" width="1" height="1" style="fill:rgba(255,255,255,255)" />
+  <rect x="2" y="3" width="1" height="1" style="fill:rgba(255,255,255,255)" />
+
+  <rect x="0" y="4" width="1" height="1" style="fill:rgba(0,0,0,255)" />
+  <rect x="1" y="4" width="1" height="1" style="fill:rgba(0,0,0,255)" />
+  <rect x="2" y="4" width="1" height="1" style="fill:rgba(0,0,0,255)" />
+
+</svg>
